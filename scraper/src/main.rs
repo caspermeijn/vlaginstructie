@@ -1,5 +1,6 @@
 fn main() -> Result<(), Box<dyn std::error::Error>> {
     handle("https://www.rijksoverheid.nl/onderwerpen/grondwet-en-statuut/vraag-en-antwoord/wanneer-kan-ik-de-vlag-uithangen-en-wat-is-de-vlaginstructie", "article", "data/rijksoverheid.md");
+    handle("https://www.koninklijkhuis.nl/onderwerpen/vlaggen-en-vlaginstructie/vlaginstructie", "article", "data/koninklijkhuis.md");
 
     Ok(())
 
