@@ -17,10 +17,13 @@
 
 fn main() -> Result<(), Box<dyn std::error::Error>> {
     handle("https://www.rijksoverheid.nl/onderwerpen/grondwet-en-statuut/vraag-en-antwoord/wanneer-kan-ik-de-vlag-uithangen-en-wat-is-de-vlaginstructie", "article", "data/rijksoverheid.md");
-    handle("https://www.koninklijkhuis.nl/onderwerpen/vlaggen-en-vlaginstructie/vlaginstructie", "article", "data/koninklijkhuis.md");
+    handle(
+        "https://www.koninklijkhuis.nl/onderwerpen/vlaggen-en-vlaginstructie/vlaginstructie",
+        "article",
+        "data/koninklijkhuis.md",
+    );
 
     Ok(())
-
 }
 
 fn handle(url: &str, class_id: &str, filename: &str) {
@@ -31,12 +34,14 @@ fn handle(url: &str, class_id: &str, filename: &str) {
 }
 
 fn scrape_page(url: &str, class_id: &str) -> Result<String, reqwest::Error> {
-    let resp = reqwest::blocking::get(url)?
-        .text()?;
+    let resp = reqwest::blocking::get(url)?.text()?;
 
     let document = select::document::Document::from(resp.as_str());
 
-    let content = document.find( select::predicate::Class(class_id)).next().unwrap();
+    let content = document
+        .find(select::predicate::Class(class_id))
+        .next()
+        .unwrap();
 
     let content_text = content.html();
 
@@ -53,7 +58,7 @@ fn write_or_compare_file(text: String, filename: &str) {
         if file_content != text {
             // let changeset = difference::Changeset::new(&file_content, &text, "");
             let changeset = prettydiff::diff_lines(&file_content, &text);
-            
+
             println!("{}", changeset);
             panic!("{} has different content", filename);
         }
