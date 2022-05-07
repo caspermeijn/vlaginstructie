@@ -1,0 +1,9 @@
+
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: vlaginstructie
+Upstream-Contact: Casper Meijn <casper@meijn.net>
+Source: https://github.com/caspermeijn/vlaginstructie
+
+Files: scraper/Cargo.lock
+Copyright: (C) 2020 Casper Meijn <casper@meijn.net>
+License: CC0-1.0
