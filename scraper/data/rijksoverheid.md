@@ -6,6 +6,8 @@ https://www.rijksoverheid.nl/onderwerpen/grondwet-en-statuut/vraag-en-antwoord/w
 
 Nederland kent geen wettelijke regels voor het gebruik van de vlag. U mag als burger, bedrijf of organisatie op alle dagen van het jaar de vlag uithangen. Er zijn wel regels voor het vlaggen vanaf Rijksgebouwen. Die staan in de vlaginstructie. Burgers, bedrijven en organisaties kunnen de instructie volgen als richtlijn. Dit is niet verplicht.
 
+[![02. audio](/binaries/content/gallery/rijksoverheid/iconen-afbeeldingen/02.-audio.svg) Gesproken versie](/documenten/geluidsfragmenten/2024/03/25/gesproken-versie-van-wanneer-kan-ik-de-nederlandse-vlag-uithangen)
+
 Regels voor het uithangen van de vlag
 ----------
 
@@ -46,24 +48,26 @@ De vlag gaat alleen op enkele gebouwen van de Rijksoverheid uit op Koninkrijksda
 * de [Raad van State](https://www.raadvanstate.nl/over-de-raad-van-state.html);
 * de [Algemene Rekenkamer](https://www.rekenkamer.nl/over-de-algemene-rekenkamer);
 * de [Nationale ombudsman](https://www.nationaleombudsman.nl/);
-* het [Kabinet van de Koning](https://www.kabinetvandekoning.nl/wat-doen-wij);
-* de [Hoge Raad der Nederlanden](https://www.rechtspraak.nl/Organisatie-en-contact/Organisatie/Hoge-Raad-der-Nederlanden/Over-de-Hoge-Raad).
+* het [Kabinet van de Koning](https://www.kabinetvandekoning.nl/onze-taken);
+* de [Hoge Raad der Nederlanden](https://www.hogeraad.nl/).
 
 Vaste dagen waarop wordt gevlagd
 ----------
 
-|         Datum          |                                                           Dag                                                            |Vlag uit op gebouwen Rijksoverheid|
-|------------------------|--------------------------------------------------------------------------------------------------------------------------|----------------------------------|
-|       31 januari       |                                                Verjaardag prinses Beatrix                                                |  Enkele gebouwen Rijksoverheid   |
-|        27 april        |                                      Koningsdag: verjaardag koning Willem-Alexander                                      |   Alle gebouwen Rijksoverheid    |
-|         4 mei          |[Dodenherdenking](/onderwerpen/tweede-wereldoorlog/nationale-herdenkingen): vlag halfstok van 18.00 uur tot zonsondergang.|   Alle gebouwen Rijksoverheid    |
-|         5 mei          |                         [Bevrijdingsdag](/onderwerpen/tweede-wereldoorlog/bevrijdingsdag-5-mei)                          |   Alle gebouwen Rijksoverheid    |
-|         17 mei         |                                                Verjaardag koningin Máxima                                                |  Enkele gebouwen Rijksoverheid   |
-|Laatste zaterdag in juni|     [Veteranendag](/onderwerpen/grondwet-en-statuut/vraag-en-antwoord/wat-en-wanneer-is-de-nederlandse-veteranendag)     |   Alle gebouwen Rijksoverheid    |
-|      15 augustus       |                                            Formeel einde Tweede Wereldoorlog                                             |   Alle gebouwen Rijksoverheid    |
-|3e dinsdag in september |                           [Prinsjesdag](/onderwerpen/prinsjesdag) (alleen in Den Haag vlaggen)                           |   Alle gebouwen Rijksoverheid    |
-|       7 december       |                                           Verjaardag prinses Catharina-Amalia                                            |  Enkele gebouwen Rijksoverheid   |
-|      15 december       |       [Koninkrijksdag](https://www.koninklijkhuis.nl/onderwerpen/koninkrijk-der-nederlanden/inhoud/koninkrijksdag)       |  Enkele gebouwen Rijksoverheid   |
+Het uithangen van de vlag gebeurt in principe op onderstaande dagen. Valt een onderstaande datum op zondag of een algemeen erkende christelijke feestdag? Alleen dan geldt de datum tussen haakjes.
+
+|          Datum          |                                                           Dag                                                            |Vlag uit op gebouwen Rijksoverheid|
+|-------------------------|--------------------------------------------------------------------------------------------------------------------------|----------------------------------|
+| 31 januari (1 februari) |                                                Verjaardag prinses Beatrix                                                |  Enkele gebouwen Rijksoverheid   |
+|   27 april (26 april)   |                                      Koningsdag: verjaardag koning Willem-Alexander                                      |   Alle gebouwen Rijksoverheid    |
+|          4 mei          |[Dodenherdenking](/onderwerpen/tweede-wereldoorlog/nationale-herdenkingen): vlag halfstok van 18.00 uur tot zonsondergang.|   Alle gebouwen Rijksoverheid    |
+|          5 mei          |                         [Bevrijdingsdag](/onderwerpen/tweede-wereldoorlog/bevrijdingsdag-5-mei)                          |   Alle gebouwen Rijksoverheid    |
+|     17 mei (18 mei)     |                                                Verjaardag koningin Máxima                                                |  Enkele gebouwen Rijksoverheid   |
+|Laatste zaterdag in juni |     [Veteranendag](/onderwerpen/grondwet-en-statuut/vraag-en-antwoord/wat-en-wanneer-is-de-nederlandse-veteranendag)     |   Alle gebouwen Rijksoverheid    |
+|15 augustus (16 augustus)|                                            Formeel einde Tweede Wereldoorlog                                             |   Alle gebouwen Rijksoverheid    |
+| 3e dinsdag in september |                           [Prinsjesdag](/onderwerpen/prinsjesdag) (alleen in Den Haag vlaggen)                           |   Alle gebouwen Rijksoverheid    |
+| 7 december (8 december) |                                           Verjaardag prinses Catharina-Amalia                                            |  Enkele gebouwen Rijksoverheid   |
+|15 december (16 december)|       [Koninkrijksdag](https://www.koninklijkhuis.nl/onderwerpen/koninkrijk-der-nederlanden/inhoud/koninkrijksdag)       |  Enkele gebouwen Rijksoverheid   |
 
 Vlag uit bij bijzondere gebeurtenissen
 ----------
@@ -71,16 +75,3 @@ Vlag uit bij bijzondere gebeurtenissen
 Zijn er bijzondere gebeurtenissen in het Koninklijk Huis, zoals een geboorte, huwelijk of overlijden? Dan kan de minister-president een speciale vlaginstructie uitgeven. De minister-president kan ook een speciale vlaginstructie uitgeven bij bijzondere gelegenheden. Bijvoorbeeld om slachtoffers te herdenken van een (inter)nationale ramp.
 
 Komt een buitenlands staatshoofd op officieel bezoek? Dan wordt de vlag alleen uitgehangen in de gemeenten die worden bezocht.
-
-Documenten
-----------
-
-* [
-
-  ###  Wat en wanneer is de Nederlandse Veteranendag? ###
-
-  De Nederlandse Veteranendag is een eerbetoon aan Nederlandse veteranen. Op de laatste zaterdag van juni is het altijd ...
-
-   Vraag en antwoord
-
-  ](/onderwerpen/grondwet-en-statuut/vraag-en-antwoord/wat-en-wanneer-is-de-nederlandse-veteranendag)
